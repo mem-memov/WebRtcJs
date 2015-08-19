@@ -1,0 +1,6 @@
+#localVideo {
+    border: 1px solid green;
+}
+#remoteVideo {
+    border: 1px solid red;
+}
